@@ -1,0 +1,67 @@
+<svg height="400" width="850" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 9/16/2026, 5:08:48 AM -->
+<rect height="400" width="850" fill="#ffffff"></rect>
+<g transform="translate(119.35999,18)">
+<g id="sankey_flows">
+<path id="flow0" d="M12 150.66667C82.26 150.66667 82.26 105.66667 152.52 105.66667" fill="none" stroke-width="121.33333" stroke="#4e79a7" opacity="0.45"><title>R-M198  (aka R1a / R-M512)  (6,500 BCE) → R-PF6162  (2,950 BCE): 500</title></path>
+<path id="flow1" d="M164.52 75.33333C357.3 75.33333 357.3 30.33333 550.08 30.33333" fill="none" stroke-width="60.66667" stroke="#f28e2c" opacity="0.45"><title>R-PF6162  (2,950 BCE) → R-BY27797  (1,650 CE): 250</title></path>
+<path id="flow2" d="M562.08 0v60.66667L610.08 60.66667v-60.66667z" fill="#e15759" stroke-width="0.5" stroke="#e15759" opacity="0.45"><title>R-BY27797  (1,650 CE) → Group 5  1001107 (Agney)  180380 (Agnew): 250</title></path>
+<path id="flow3" d="M164.52 136C200.28 136 200.28 149 236.04 149" fill="none" stroke-width="60.66667" stroke="#f28e2c" opacity="0.45"><title>R-PF6162  (2,950 BCE) → R-Z282  (2,750 BCE): 250</title></path>
+<path id="flow4" d="M248.04 149C300.3 149 300.3 166 352.56 166" fill="none" stroke-width="60.66667" stroke="#59a14f" opacity="0.45"><title>R-Z282  (2,750 BCE) → R-S5301  (1,200 BCE): 250</title></path>
+<path id="flow5" d="M364.56 166C399.32 166 399.32 173 434.08 173" fill="none" stroke-width="60.66667" stroke="#edc949" opacity="0.45"><title>R-S5301  (1,200 BCE) → Group 5  173417 (Agnew),  N80153 (Beard): 250</title></path>
+<path id="flow6" d="M12 241.66667C55.26 241.66667 55.26 250.66667 98.52 250.66667" fill="none" stroke-width="60.66667" stroke="#4e79a7" opacity="0.45"><title>R-M198  (aka R1a / R-M512)  (6,500 BCE) → Group 6  251923, 290239, 301317 (Agnew x3): 250</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="90" height="182" width="12" fill="#4e79a7" fill-opacity="1"><title>R-M198  (aka R1a / R-M512)  (6,500 BCE):
+750</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="152.52" y="45" height="121.33333" width="12" fill="#f28e2c" fill-opacity="1"><title>R-PF6162  (2,950 BCE):
+500</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="305.04" y="0" height="60.66667" width="12" fill="#e15759" fill-opacity="1" transform="translate(245.04,0)"><title>R-BY27797  (1,650 CE):
+250</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="457.56" y="0" height="60.66667" width="12" fill="#76b7b2" fill-opacity="1" transform="translate(152.52,0)"><title>Group 5  1001107 (Agney)  180380 (Agnew):
+250</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="305.04" y="195.66667" height="60.66667" width="12" fill="#59a14f" fill-opacity="1" transform="translate(-69,-77)"><title>R-Z282  (2,750 BCE):
+250</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="457.56" y="195.66667" height="60.66667" width="12" fill="#edc949" fill-opacity="1" transform="translate(-105,-60)"><title>R-S5301  (1,200 BCE):
+250</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="610.08" y="195.66667" height="60.66667" width="12" fill="#76b7b2" fill-opacity="1" transform="translate(-176,-53)"><title>Group 5  173417 (Agnew),  N80153 (Beard):
+250</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="152.52" y="301.33333" height="60.66667" width="12" fill="#76b7b2" fill-opacity="1" transform="translate(-54,-81)"><title>Group 6  251923, 290239, 301317 (Agnew x3):
+250</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="12px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-107.36" y="159.28834" width="105.86667" height="42.67333" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-5.22667" y="181" font-weight="700" font-size="10.8px" dy="-8.045">R-M198 <tspan x="-5.22667" dy="12.42" font-weight="700" font-size="10.8px">(aka R1a / R-M512) </tspan><tspan x="-5.22667" dy="12.42" font-weight="700" font-size="10.8px">(6,500 BCE)</tspan></text>
+<rect id="label1_bg" class="for_r1" x="124.78667" y="90.16501" width="67.46667" height="30.25333" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="158.52" y="105.66667" font-weight="700" font-size="10.8px" dy="-1.835">R-PF6162 <tspan x="158.52" dy="12.42" font-weight="700" font-size="10.8px">(2,950 BCE)</tspan></text>
+<rect id="label2_bg" class="for_r2" x="277.60666" y="14.83166" width="66.86666" height="30.25334" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(245.04,0)"></rect>
+<text id="label2" class="for_r2" text-anchor="middle" x="311.04" y="30.33333" font-weight="700" font-size="10.8px" dy="-1.835" transform="translate(245.04,0)">R-BY27797 <tspan x="311.04" dy="12.42" font-weight="700" font-size="10.8px">(1,650 CE)</tspan></text>
+<rect id="label3_bg" class="for_r3" x="471.05335" y="8.62166" width="95.08331" height="42.67333" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(152.52,0)"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="474.78667" y="30.33333" font-weight="700" font-size="10.8px" dy="-8.045" transform="translate(152.52,0)">Group 5 <tspan x="474.78667" dy="12.42" font-weight="700" font-size="10.8px">1001107 (Agney) </tspan><tspan x="474.78667" dy="12.42" font-weight="700" font-size="10.8px">180380 (Agnew)</tspan></text>
+<rect id="label4_bg" class="for_r4" x="277.30668" y="210.49833" width="67.46667" height="30.25335" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-69,-77)"></rect>
+<text id="label4" class="for_r4" text-anchor="middle" x="311.04" y="226" font-weight="700" font-size="10.8px" dy="-1.835" transform="translate(-69,-77)">R-Z282 <tspan x="311.04" dy="12.42" font-weight="700" font-size="10.8px">(2,750 BCE)</tspan></text>
+<rect id="label5_bg" class="for_r5" x="429.82666" y="210.49833" width="67.46667" height="30.25335" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-105,-60)"></rect>
+<text id="label5" class="for_r5" text-anchor="middle" x="463.56" y="226" font-weight="700" font-size="10.8px" dy="-1.835" transform="translate(-105,-60)">R-S5301 <tspan x="463.56" dy="12.42" font-weight="700" font-size="10.8px">(1,200 BCE)</tspan></text>
+<rect id="label6_bg" class="for_r6" x="623.57331" y="204.28834" width="95.06664" height="42.67333" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-176,-53)"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="627.30667" y="226" font-weight="700" font-size="10.8px" dy="-8.045" transform="translate(-176,-53)">Group 5 <tspan x="627.30667" dy="12.42" font-weight="700" font-size="10.8px">173417 (Agnew), </tspan><tspan x="627.30667" dy="12.42" font-weight="700" font-size="10.8px">N80153 (Beard)</tspan></text>
+<rect id="label7_bg" class="for_r7" x="166.01334" y="316.165" width="188.06667" height="30.25332" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-54,-81)"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="169.74667" y="331.66667" font-weight="700" font-size="10.8px" dy="-1.835" transform="translate(-54,-81)">Group 6 <tspan x="169.74667" dy="12.42" font-weight="700" font-size="10.8px">251923, 290239, 301317 (Agnew x3)</tspan></text>
+</g>
+</g></svg>
